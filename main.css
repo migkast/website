@@ -1,0 +1,11 @@
+.fotos {
+    display: none;
+}
+
+.jumbotron {
+    background-image: url("pics/bg.jpg");
+    background-size: cover;
+  color:white;
+}
+
+
